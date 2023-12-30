@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Felicitación</string>
+    <string name="feliz_navidad">¡ FELIZ  NAVIDAD !</string>
+    <string name="frase1">Que este año</string>
+    <string name="frase2">traiga muchos regalos</string>
+    <string name="frase3">y pocos problemas.</string>
+    <string name="year">Y PRÓSPERO AÑO NUEVO</string>
+    <string name="cargando">  CARGANDO</string>
+</resources>
